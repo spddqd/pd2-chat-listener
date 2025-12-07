@@ -1,0 +1,1 @@
+python3 pd2notify.py
